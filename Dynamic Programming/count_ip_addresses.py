@@ -15,7 +15,7 @@ Output: 1
 Output explanation: Valid IP addresses: '123.45.67'.
 
 Input: '100111', 3
-Output: 1
+Output: 3
 Output explanation: Valid IP addresses: '100.1.11', '100.11.1', '10.0.111'.
 
 Input: '345678', 2
